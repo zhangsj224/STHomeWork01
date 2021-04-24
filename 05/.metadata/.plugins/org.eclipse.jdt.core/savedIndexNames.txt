@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+D:\学习资料\2021春季学期\软件质量保证与测试\homework-1\05\.metadata\.plugins\org.eclipse.jdt.core
+3812459156.index
+719669330.index
+3285963888.index
+3631292540.index
+2186899505.index
+1077417326.index
+3115911416.index
+2672712609.index
+2047918891.index
+3802851912.index
+4089718226.index
+3073742651.index
+687767466.index
+1079693708.index
+1104547409.index
+1418008629.index
+3961021329.index
+3515893183.index
+741495723.index

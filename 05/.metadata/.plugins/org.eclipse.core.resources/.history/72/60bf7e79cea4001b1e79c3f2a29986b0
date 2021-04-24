@@ -1,0 +1,12 @@
+package StudentJavaSE;
+
+public class SMTest {
+	static Scanner sc = new Scanner(System.in);
+	//让所有方法都操作这一个集合
+	static ArrayList<Student> array = new ArrayList<Student>();
+
+
+	public static void main(String[] args) {
+		App();
+	}
+}
