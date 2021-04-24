@@ -38,6 +38,7 @@ public class Student implements Comparable{
     public void setGender(String gender) {
         this.gender = gender;
     }
+	//排序
     public int compareTo(Object o) {
 		return Integer.valueOf(this.getStdId())-Integer.valueOf(((Student)o).getStdId());
     }
