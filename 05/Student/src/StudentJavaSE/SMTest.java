@@ -1,15 +1,15 @@
 package StudentJavaSE;
 
-import java.util.ArrayList;
+//26:import java.util.ArrayList;
 import java.util.Scanner;
 
 public class SMTest{
 	static Scanner sc = new Scanner(System.in);
-	//让所有方法都操作这一个集合
+	//4:让所有方法都操作这一个集合
 	
 	public static void main(String[] args) {
-	    StudentManager studentManager=new StudentManager();
-	    studentManager.App();
+	    //26:StudentManager studentManager=new StudentManager();
+	    StudentManager.App();
 	}
 
 }
